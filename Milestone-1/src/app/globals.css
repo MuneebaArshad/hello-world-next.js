@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ 
+
+  h1 {
+    color: #4CAF50;
+    font-size: 40px;
+    text-align: center;
+  }
+  
+  p {
+    color: #333;
+    font-size: 1.2rem;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+  }
